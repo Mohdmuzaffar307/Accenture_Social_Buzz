@@ -21,7 +21,7 @@ Identify which datasets will be required to answer the client’s business quest
 Clean the datasets and merge them to prepare the data for analysis
 Determine the answer to the client’s business question
 
-##Let's dive into the data
+## Let's dive into the data
 Now you have a good understanding of the project and your role - it’s time to get to work!
 
 Don’t worry if you haven’t done data analysis before, we’ll take you through each step and provide support along the way.
@@ -36,7 +36,7 @@ There is a lot of information here and it’s easy to get lost in the data. So, 
 2:-Data cleaning
 3:-Data modelling
 
-###First up, requirements gathering
+### First up, requirements gathering
 As we mentioned, you have been sent 7 datasets and a data model.
 
 Often you won’t need all these datasets to find what you’re looking for.
